@@ -3,6 +3,8 @@ Desafio da DIO para criação de Banco de Dados não relacional
 
 Serão executados comandos a partir de vídeo aulas do instrutor da DIO (Cassiano Peres)
 
+Usar o BASH pois o Power Shell não aceita comandos com mais de uma linha tendo a "\" como separador.
+
 ** --------------------------------------------------------------------------------------------------------
 
 ## CRIAÇÃO DE TABELA NO BANCO DE DADOS DynamoDB
